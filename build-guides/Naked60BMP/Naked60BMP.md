@@ -40,6 +40,14 @@ layout: default
 * Waterproof Spray
 * Glue for Glue Gun (optional)
 
+## Assembled PCB Detail Photos
+
+Use the following high resolution photo to help place the components included with the kit.
+
+![Naked60BMP PCB Front](./images/naked60_pcb_front.jpg)
+
+![Naked60BMP PCB Back](./images/naked60_pcb_back.jpg)
+
 ## The Build
 
 ### Install Diodes

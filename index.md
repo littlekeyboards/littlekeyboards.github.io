@@ -12,4 +12,5 @@ layout: default
 
 ## Keyboard Build Guides
 
+### [Naked48LED](./build-guides/Naked48LED)
 ### [Naked60BMP](./build-guides/Naked60BMP)

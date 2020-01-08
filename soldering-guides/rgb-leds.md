@@ -2,4 +2,4 @@
 layout: default
 ---
 
-# SMD Soldering Guide
+# RGB LED Soldering Guide

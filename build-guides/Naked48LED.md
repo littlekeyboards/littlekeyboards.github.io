@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Naked60BMP Build Guide
+# Naked48LED Build Guide
 
 ## Tools
 
@@ -25,8 +25,9 @@ layout: default
 * 2x 12 Pin Low Profile Sockets (optional)
 * 1x TRRS Jack
 * 1x Reset Switch
-* 60x Surface Mount Diode
-* 60x Kailh Choc Sockets
+* 48x Surface Mount Diode
+* 48x Kailh Choc Sockets
+* 48x SK6812MINI (optional)
 * 28x M2 3mm Screw
 * 2x M2 4mm Screw
 * 10x M2 3.5mm Spacer
@@ -51,6 +52,10 @@ More detailed information about soldering diodes can be found [here](../solderin
 Installing the Pro Micro at this time will allow for a quick test of the PCB to make sure all switch footprints respond appropriately. More detailed information about testing PCBs can be found [here](../soldering-guides/testing-pcbs).
 
 ### Install Hotswap Sockets
+
+### Install RGB LEDs
+
+More detailed information about soldering RGB LEDs can be found [here](../soldering-guides/rgb-leds).
 
 ### Install Switches
 

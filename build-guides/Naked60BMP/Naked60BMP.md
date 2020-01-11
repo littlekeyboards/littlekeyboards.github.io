@@ -9,6 +9,8 @@ layout: default
 * Soldering Iron
 * Flush Cutters
 * Scissors
+* Tweezers
+* Precision Screwdriver
 * Hot Glue Gun (optional)
 
 ## Component List
@@ -192,4 +194,4 @@ Align the bottoms and gently lay it down.
 
 ### Celebrate
 
-It wasn't easy, but it sure was worth it. 
+It wasn't easy, but it sure was worth it.

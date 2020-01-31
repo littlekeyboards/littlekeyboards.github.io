@@ -42,6 +42,11 @@ layout: default
 * Waterproof Spray
 * Glue for Glue Gun (optional)
 
+## Additional Resources
+
+* [Salicylic Acid Naked60BMP Build Guide](https://salicylic-acid3.hatenablog.com/entry/naked60bmp-build-guide)
+* [Salicylic Acid Yukata Cover Build Guide](https://salicylic-acid3.hatenablog.com/entry/yukata-cover-build-guide)
+
 ## Assembled PCB Detail Photos
 
 Use the following high resolution photo to help place the components included with the kit.
@@ -76,7 +81,7 @@ Now is a good time to remove the small stabilizer bar that comes installed on li
 
 ### Prepare Cover
 
-Now is a good time to spray the alcantara material with waterproofing spray. This is an optional step, but could be be handy in the event of an accidental spill.
+Spray the alcantara material with waterproofing spray. This is an optional step, but could be be handy in the event of an accidental spill.
 
 ### Prepare Bottom Plate
 

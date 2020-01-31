@@ -41,15 +41,41 @@ layout: default
 * Waterproof Spray
 * Glue for Glue Gun (optional)
 
+## Additional Resources
+
+* [Salicylic Acid Naked60BMP Build Guide](https://salicylic-acid3.hatenablog.com/entry/naked60bmp-build-guide)
+* [Salicylic Acid Yukata Cover Build Guide](https://salicylic-acid3.hatenablog.com/entry/yukata-cover-build-guide)
+
+## Assembled PCB Detail Photos
+
+Use the following high resolution photo to help place the components included with the kit.
+
+![Naked48LED PCB Front](./images/Front_PCB.jpg)
+
+![Naked48LED PCB Back](./images/Back_PCB.jpg)
+
+![Naked48LED PCB Front](./images/Front_Soldered.jpg)
+
+![Naked48LED PCB Back](./images/Back_Soldered.jpg)
+
+
 ## The Build
 
 ### Install Diodes
 
-More detailed information about soldering diodes can be found [here](../soldering-guides/smd-soldering). Be sure to add all 60 diodes.
+More detailed information about soldering diodes can be found [here](../soldering-guides/smd-soldering). Be sure to add all 48 diodes.
+
+### Install Low Profile Sockets (optional)
+
+![Low Profile Sockets](./images/low_profile_sockets.jpg)
 
 ### Install Pro Micro
 
+![Pro Micro](./images/pro_micro.jpg)
+
 Installing the Pro Micro at this time will allow for a quick test of the PCB to make sure all switch footprints respond appropriately. More detailed information about testing PCBs can be found [here](../soldering-guides/testing-pcbs).
+
+### Install Reset Switch
 
 ### Install Hotswap Sockets
 
@@ -63,7 +89,7 @@ Now is a good time to remove the small stabilizer bar that comes installed on li
 
 ### Prepare Cover
 
-Now is a good time to spray the alcantara material with waterproofing spray. This is an optional step, but could be be handy in the event of an accidental spill.
+Spray the alcantara material with waterproofing spray. This is an optional step, but could be be handy in the event of an accidental spill.
 
 ### Prepare Bottom Plate
 

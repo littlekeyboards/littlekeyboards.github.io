@@ -4,6 +4,10 @@ layout: default
 
 # Custom Keyboard Reference Guide
 
+## General Information
+
+### [Choc Switch Stabilizer Removal](./general-information/choc-switches/stabilizer-removal)
+
 ## General Soldering
 
 ### [SMD Soldering](./soldering-guides/smd-soldering)

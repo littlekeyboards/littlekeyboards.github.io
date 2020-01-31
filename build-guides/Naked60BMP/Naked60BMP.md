@@ -165,7 +165,8 @@ Fold extra tape around the backside of the plate. It will be useful later when a
 
 Take your time.
 
-Remove the backing material from the tape and align the bottom corners of the Support Plate to the Cover Fabric. Gently lay the Support Plate onto the Cover Fabric.
+Remove
+the backing material from the tape and align the bottom corners of the Support Plate to the Cover Fabric. Gently lay the Support Plate onto the Cover Fabric.
 
 Check the alignment and adjust if necessary. Once all is well, press down on the Support Plate to firmly adhere it to the fabric. Whew.
 
